@@ -1,4 +1,4 @@
-# Sephora_Product_Comments_Analysis
+# Sephora Product Comments Analysis
 This project is intended to scrape product information and reviews from sephora.ca for some analysis. It uses selenium to scrape data.
 
 File sephora_scrapping.py is the main file for scrapping products information and reviews. In the script, I used chrome browser. To run 
